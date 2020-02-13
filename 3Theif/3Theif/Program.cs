@@ -10,6 +10,14 @@ namespace _3Theif
     {
         static void Main(string[] args)
         {
+
         }
+
+        static void ReturnNumberOfPINPossibilities(int PINLength)
+        {
+            string PINstring = (Convert.ToString(PINLength));
+            
+        }
+
     }
 }
